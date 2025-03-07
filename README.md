@@ -1,4 +1,3 @@
-```markdown
 # Aeye
 
 Aeye je implementacija prepoznavanja lica i detekcije facijalnih atributa (dob, emocije, rasa i spol) za Python. Repozitorij pruža skriptu za pokretanje analize lica pomoću web kamere ili učitavanjem slike. Implementacija podržava prepoznavanje više lica i registraciju novih korisnika za prepoznavanje lica.
@@ -13,9 +12,7 @@ Aeye je implementacija prepoznavanja lica i detekcije facijalnih atributa (dob, 
 
 ## Instalacija
 1. Klonirajte repozitorij:
-   ```sh
    git clone https://github.com/MihaelHoli/Aeye.git
-   ```
 2. Instalirajte potrebne ovisnosti.
 3. Pokrenite skriptu za analizu lica pomoću web kamere ili slike.
 
@@ -25,11 +22,5 @@ Aeye je implementacija prepoznavanja lica i detekcije facijalnih atributa (dob, 
 - **Age detection:** [serengil/deepface](https://github.com/serengil/deepface)
 - **Gender detection:** [serengil/deepface](https://github.com/serengil/deepface)
 - **Race detection:** [serengil/deepface](https://github.com/serengil/deepface)
-
-## Autor
-[Mihael Holi](https://github.com/MihaelHoli)
-
-## Licenca
-Ovaj projekt je objavljen pod MIT licencom.
 ```
 
